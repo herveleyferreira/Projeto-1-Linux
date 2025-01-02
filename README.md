@@ -58,11 +58,11 @@ wsl --install
 ```
 - Reinicie o sistema após a instalação, se solicitado.
 
-## 3.2. Instalar o Unbutu:
+## 3.2. Instalar o Ubuntu:
 - Após a instalação do WSL, abra o Microsoft Store e instale o Unbutu 20.04 ou superior.
 
-## 3.3. Instalar o servidor Nginx no Unbutu:
-- No terminal Unbutu, digite:
+## 3.3. Instalar o servidor Nginx no Ubuntu:
+- No terminal Ubuntu, digite:
 ```powershell
 sudo apt install nginx
 ```
